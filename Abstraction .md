@@ -58,3 +58,4 @@ print("Area of a circle:", cir.calculate_area())
 <img width="1094" height="286" alt="image" src="https://github.com/user-attachments/assets/af9a1477-420b-47d0-a29c-abd352376021" />
 
 ## Result
+The ccode is executed successfully
